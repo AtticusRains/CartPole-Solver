@@ -1,6 +1,5 @@
 # CartPole-Solver
-uses reenforcment learnign to solve the cart pole problem as provided by OpenAI's AI gym
-
+Uses reinforcement learning to solve the cart pole problem as provided by OpenAi's ai gym
 Dependencies:
 tensorflow,
 tflearn,
